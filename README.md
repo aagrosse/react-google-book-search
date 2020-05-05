@@ -14,7 +14,10 @@ React.js
 
 ## Screen Shots
 ### Landing Screen
-![image](./public/dir.png)
+![image](./client/public/books1.PNG)
+
+### Saved Books
+![image](./client/public/books2.PNG)
 
 ## Links
 [google Book Search](https://reactgooglebookss.herokuapp.com/)
